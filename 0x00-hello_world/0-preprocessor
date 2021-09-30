@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o c main.c
+export CFILE=main.c; gcc -o main.o c main.c
