@@ -25,10 +25,5 @@ int main(void)
 	{
 	printf("Is negative: %i\n", n);
 	}
-	/*if (n>0)*/
-	/*{
-	/*printf("%
-	/*}
-	printf("%s%lu byte(s)\n", "Size of a char: ", sizeof(char));*/
 	return (0);
 }
