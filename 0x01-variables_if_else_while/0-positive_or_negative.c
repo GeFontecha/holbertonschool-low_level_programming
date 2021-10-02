@@ -7,19 +7,17 @@
 int main(void)
 {
 	int n;
-	//char numero_positivo;
+	/*char numero_positivo;*/
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
-		
-	//scanf
-	if (n>0)
+	/*scanf*/
+	if (n > 0)
 	{
-	//printf("%d\n", n);
-	printf("Is positive: %i\n",n);
+	/*printf("%d\n", n);*/
+	printf("Is positive: %i\n", n);
 	}
-	else if (n==0)
+	else if (n == 0)
 	{
 	printf("Is zero: %i\n", n);
 	}
@@ -27,12 +25,10 @@ int main(void)
 	{
 	printf("Is negative: %i\n", n);
 	}
-	//if (n>0)
-	//{
-	//printf("%
-	//}
-	//printf("%s%lu byte(s)\n", "Size of a char: ", sizeof(char));
-	
-	
+	/*if (n>0)*/
+	/*{
+	/*printf("%
+	/*}
+	printf("%s%lu byte(s)\n", "Size of a char: ", sizeof(char));*/
 	return (0);
 }
