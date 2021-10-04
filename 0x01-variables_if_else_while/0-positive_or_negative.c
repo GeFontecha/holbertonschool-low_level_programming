@@ -1,13 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main  */
-
-/* betty style doc for function main goes there */
-/* main print numbers negative, positive or zero.*/
-/* a partir de numbers generados de manarea randomica */ 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 <Success>
+*/
 int main(void)
-
 {
 	int n;
 		srand(time(0));
