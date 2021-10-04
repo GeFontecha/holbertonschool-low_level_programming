@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * lowescase and uppercase alphabet
+ *
  * Return: Always 0 <Success>
 */
 int main(void)
@@ -14,7 +14,7 @@ int main(void)
 	{
 		putchar(a);
 		a++;
-	/*char charb=b;*/
+	/*char charb=b;lowescase and uppercase alphabe*/
 	}
 		while (A <= 'Z')
 	{
