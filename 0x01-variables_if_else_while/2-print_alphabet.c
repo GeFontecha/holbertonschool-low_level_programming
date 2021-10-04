@@ -3,7 +3,7 @@
 /**
  * main -check the code
  *
- * Print_alphabetc.c
+ * Return: Always 0 <Success>
 */
 int main(void)
 
