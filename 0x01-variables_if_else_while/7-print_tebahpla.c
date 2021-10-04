@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-/*zyx...a*/
-
-/* */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 <Success>
+*/
 int main(void) /* void main*/
 
 {
@@ -12,6 +14,8 @@ int main(void) /* void main*/
 	{
 		putchar(a);
 		a--;
+	/*zyx...a*/
+
 	}
 	putchar('\n');
 	return (0);

@@ -1,5 +1,13 @@
 #include <stdio.h>
-/*012-9*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 <Success>
+ */
+
+
+
+
 int main(void)
 {
 	int a = '0';

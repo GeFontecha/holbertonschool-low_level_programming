@@ -1,7 +1,9 @@
 #include <stdio.h>
-/*
-*combinatoria numeros un solo digit.
-*/
+/**
+ * main - Entry point
+ *
+ * Return: Return 0
+ */
 
 
 int main(void)
@@ -17,6 +19,7 @@ int main(void)
 			putchar(' ');
 		}
 		comb++;
+	/* combinatoria numeros un solo digit.*/
 	}
 	putchar('\n');
 	return (0);

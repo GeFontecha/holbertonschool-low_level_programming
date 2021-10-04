@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*0123-9 whit printf */
+/**
+ * main - Entry Point
+ *
+ * Return: Always 0 <Success>
+ */
 int main(void)
 {
 	printf("0123456789\n");
