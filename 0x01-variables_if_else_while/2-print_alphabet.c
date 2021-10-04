@@ -5,7 +5,7 @@
  *
  * Print_alphabetc.c
 */
-int main()
+int main(void)
 
 {
 	char a = 'a';
