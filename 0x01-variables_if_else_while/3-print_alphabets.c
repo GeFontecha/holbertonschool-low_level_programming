@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/*alfabeto en minúscula y mayuscula*/
-/* lowescase and uppercase alphabet */
+/**
+ * main - Entry point
+ * lowescase and uppercase alphabet
+ * Return: Always 0 <Success>
+*/
 int main(void)
 
 {
