@@ -1,8 +1,11 @@
 #include <stdio.h>
 
-/*alfabeto en minúscula*/
-/* */
-int main(void)
+/**
+ * main -check the code
+ *
+ * Print_alphabetc.c
+*/
+int main()
 
 {
 	char a = 'a';
