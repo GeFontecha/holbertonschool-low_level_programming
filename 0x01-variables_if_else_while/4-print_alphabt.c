@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/*alfabeto en minúscula */
-/* lowescase alphabet, exepction e and q */
+/**
+ * main - Entry Point
+ *
+ * Return: Always 0 <Success>
+ */
 int main(void)
 
 {
@@ -15,6 +18,7 @@ int main(void)
 		}
 		a++;
 	}
+	/*alfabeto en minúscula */
 
 		putchar ('\n');	/*salto de línea*/
 return (0);
