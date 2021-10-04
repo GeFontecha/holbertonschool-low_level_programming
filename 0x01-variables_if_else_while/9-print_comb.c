@@ -6,7 +6,7 @@
 
 int main(void)
 {
-	char comb = '0';
+	int comb = '0';
 
 	while (comb <= '9')
 	{
