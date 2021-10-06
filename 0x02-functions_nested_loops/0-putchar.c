@@ -4,25 +4,27 @@
 #include "main.h"
 
 /**
- * main - print word for caracter. 
+ * main - check the code
  *
- * return: return(0)
+ * return: Always 0
  */
 
-//char cadenadC[] = "_putchar\n";
-
 int main(void)
-{	
+
+{
+
+	char cadenadC[] = "_putchar\n";
+
 	int a = 0;
-	for (a=0; a < 9; a++) /*recorre caracter por caracter*/
-	{
-		putchar(a);
-		//putchar(cadenadC[a]);
-	}
 	
+	for (a = 0; a < 9; a++) /*recorre caracter por caracter*/
+	{
+		/*putchar(a);*/
+		putchar(cadenadC[a]);
+	}
 	/*printf("%s\n", cadena);*/
 	/*printf("_putchar\n");*/
-	return(0);
+	return (0);
 }
 
 
