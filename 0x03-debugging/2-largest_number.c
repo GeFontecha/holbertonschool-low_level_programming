@@ -3,8 +3,8 @@
 /**
 * largest_number - returns the largest of 3 numbers
 * @a: second integer
-* @c: third integer
 * @b: first integer
+* @c: third integer
 * Return: largest number
 */
 
